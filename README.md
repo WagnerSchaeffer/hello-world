@@ -1,2 +1,2 @@
 # hello-world
-Conhecendo o GitHub
+Conhecendo o funcionamento dessa ferramenta, tão comentada entre os desenvolvedores.
